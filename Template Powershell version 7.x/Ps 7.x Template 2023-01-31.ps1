@@ -8,12 +8,12 @@ PSRemotingProtocolVersion      2.3
 SerializationVersion           1.1.0.1
 WSManStackVersion              3.0  
 
-About Script 
-Author :
-Title : 
-Description : 
-Version : 
-Release day : 
+About Script : Template for Ps-7 Scripts
+Author : Fardin Barashi
+Title : Template Powershell version 7.x
+Description : A quick startup-template
+Version : 1
+Release day : 2023-01-31
 Github Link  : https://github.com/fardinbarashi
 News : 
 
